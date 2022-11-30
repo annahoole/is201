@@ -1,0 +1,55 @@
+.site-heading-lower{
+    font-family: 'Courier New', Courier, monospace;
+}
+.mysubfont{
+    font-family: 'Courier New', Courier, monospace; color: rgb(253, 253, 253);
+    !important
+}
+.myimg{
+    width: 50%; !important
+}
+.myitalics{
+    font-style: italic; 
+    !important
+}
+
+.body{
+    background-color: lightpink;
+}
+
+.header{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 50px;
+    color: aliceblue;
+}
+
+.backgroundmain{
+    background-color: mintcream;
+}
+
+.snns: {
+    color: aliceblue;
+background-color: rgb(255, 234, 241);
+font-weight: bold;
+text-align: center;
+}
+
+
+.instagram{
+    background-color: rgb(227, 207, 221);
+    border-color:  rgb(227, 207, 221);
+    color: aliceblue;
+}
+
+.fontcolor{
+font-family:'Courier New', Courier, monospace;
+color: rgb(255, 255, 255);
+}
+
+.lover{
+    background-color: lightpink;
+    font-family: 'Courier New', Courier, monospace;
+}
